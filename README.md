@@ -357,6 +357,18 @@ Programming Problems, and Solutions</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(182).pdf" style="text-decoration:none;">Programming Pearls</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(195).pdf" style="text-decoration:none;">Deep Learning with Python: A Hands-on Introduction</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(196).pdf" style="text-decoration:none;">Deep Learning with Python</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(197).rar" style="text-decoration:none;">Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(198).pdf" style="text-decoration:none;">Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(199).pdf" style="text-decoration:none;">C++: The Complete Reference</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(200).pdf" style="text-decoration:none;">Hadoop with Python</a></b></li>
+
 
 
 
