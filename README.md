@@ -212,6 +212,36 @@ in a Month of Lunches</a></b></li>
 Integration with Jenkins</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(129).pdf" style="text-decoration:none;">Learning DevOps: Continuously Deliver Better Software</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(130).pdf" style="text-decoration:none;">Learning Linux Shell Scripting</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(131).pdf" style="text-decoration:none;">Learning Shell Scripting with Zsh</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(132).pdf" style="text-decoration:none;">Linux Bible</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(133).pdf" style="text-decoration:none;">Linux E-mail: Set up, maintain, and secure a small office e-mail server</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(134).pdf" style="text-decoration:none;">Linux Email: Set up and Run a Small Office Email Server</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(135).pdf" style="text-decoration:none;">Linux For Dummies</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(136).pdf" style="text-decoration:none;">Linux in a Nutshell</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(137).pdf" style="text-decoration:none;">Linux Mint Essentials</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(139).pdf" style="text-decoration:none;">Linux: Pocket Guide</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
