@@ -189,7 +189,27 @@ L7-filter</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(117).pdf" style="text-decoration:none;">DevOps on the Microsoft Stack</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(118).pdf" style="text-decoration:none;">DevOps with Windows Server 2016</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(119).pdf" style="text-decoration:none;">DEVOPS, DBAS, AND DBAAS</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(120).pdf" style="text-decoration:none;">Effective DevOps</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(121).pdf" style="text-decoration:none;">Getting Started with tmux</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(122).pdf" style="text-decoration:none;">GNU/Linux Advanced Administration</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(123).pdf" style="text-decoration:none;">Implementing DevOps on AWS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(124).pdf" style="text-decoration:none;">Implementing Modern DevOps</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(125).pdf" style="text-decoration:none;">Infrastructure as Code (IAC) Cookbook</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(126).pdf" style="text-decoration:none;">Jenkins Essentials</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(127).pdf" style="text-decoration:none;">Learn Windows PowerShell 3
+in a Month of Lunches</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(128).pdf" style="text-decoration:none;">Learning Continuous
+Integration with Jenkins</a></b></li>
 
 
 
