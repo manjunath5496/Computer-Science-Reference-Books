@@ -399,7 +399,26 @@ Programming Problems, and Solutions</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(214).pdf" style="text-decoration:none;">Algorithms Unlocked</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(215).pdf" style="text-decoration:none;">Beginning Java 8 Games Development</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(216).pdf" style="text-decoration:none;">OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(217).pdf" style="text-decoration:none;">Object-Oriented Programming and Java</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(218).pdf" style="text-decoration:none;">Algorithms To Live By</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(219).pdf" style="text-decoration:none;">Object-Oriented Design with UML and Java</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(220).pdf" style="text-decoration:none;">Core Java, Volume I — Fundamentals</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(221).pdf" style="text-decoration:none;">Java For Everyone: Late Objects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(222).pdf" style="text-decoration:none;">An introduction to object-oriented programming with Java</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(223).pdf" style="text-decoration:none;">Object-Oriented and Classical Software Engineering</a></b></li>
 
 
 
