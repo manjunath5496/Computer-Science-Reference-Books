@@ -268,6 +268,14 @@ Cookbook</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(158).pdf" style="text-decoration:none;">Pro Bash Programming: Scripting the GNU/Linux Shell</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(159).pdf" style="text-decoration:none;">Pro Continuous Delivery  With Jenkins 2.0</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(160).pdf" style="text-decoration:none;">REST API Design Rulebook</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(161).pdf" style="text-decoration:none;">SELinux System Administration</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(162).pdf" style="text-decoration:none;">Shell Scripting Recipes: A Problem-Solution Approach</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(163).pdf" style="text-decoration:none;">The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline With Containerized Microservices</a></b></li>
 
 
 
