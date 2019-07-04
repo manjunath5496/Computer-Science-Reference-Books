@@ -369,6 +369,46 @@ Programming Problems, and Solutions</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(200).pdf" style="text-decoration:none;">Hadoop with Python</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(201).pdf" style="text-decoration:none;">HMI Framework 2.0 User Guide</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(202).pdf" style="text-decoration:none;">LEARN PYTHON THE HARD WAY: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(203).pdf" style="text-decoration:none;">Numerical Recipes in C: The Art of Scientific Computing</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(204).pdf" style="text-decoration:none;">The Art of Computer Programming, Volume 1: Fundamental Algorithms</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(205).pdf" style="text-decoration:none;">The Art of Computer Programming, Volume 3: Sorting and Searching</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(206).pdf" style="text-decoration:none;">The Art of Computer Programming: Seminumerical Algorithms</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(207).pdf" style="text-decoration:none;">Effective Java</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(208).pdf" style="text-decoration:none;">Functional Programming for Java Developers</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(209).pdf" style="text-decoration:none;">Java 8 in Action: Lambdas, streams, and functional-style programming</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(210).pdf" style="text-decoration:none;">Mastering Lambdas: Java Programming in a Multicore World</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(211).pdf" style="text-decoration:none;">Generics and Collections in Java 5</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(212).pdf" style="text-decoration:none;">Java 8 Lambdas</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(213).pdf" style="text-decoration:none;">A Common-Sense Guide to Data Structures and Algorithms</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(214).pdf" style="text-decoration:none;">Algorithms Unlocked</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
