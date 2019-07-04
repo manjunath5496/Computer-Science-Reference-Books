@@ -232,8 +232,27 @@ Integration with Jenkins</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(139).pdf" style="text-decoration:none;">Linux: Pocket Guide</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(140).pdf" style="text-decoration:none;">Linux Shell Scripting
+Cookbook</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(141).pdf" style="text-decoration:none;">Linux Shell Scripting Essentials</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(142).pdf" style="text-decoration:none;">Linux Thin Client Networks Design and Deployment</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(143).pdf" style="text-decoration:none;">Linux Utilities Cookbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(144).pdf" style="text-decoration:none;">Mastering Linux Shell Scripting</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(145).pdf" style="text-decoration:none;">Mastering Linux</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(146).pdf" style="text-decoration:none;">Mastering Wireshark</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(147).pdf" style="text-decoration:none;">Mesos in Action</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(148).pdf" style="text-decoration:none;">Microservices: Building Scalable Software</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(149).pdf" style="text-decoration:none;">Microservices: Flexible Software Architecture</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(150).pdf" style="text-decoration:none;">Microservices Deployment Cookbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(151).pdf" style="text-decoration:none;">Microservices from Day One</a></b></li>
 
 
 
