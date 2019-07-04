@@ -112,13 +112,33 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(75).pdf" style="text-decoration:none;">The Quick Python Book</a></b></li>
 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(76).pdf" style="text-decoration:none;">The Art of Unit Testing</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(77).pdf" style="text-decoration:none;">The Python Standard Library by Example</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(79).pdf" style="text-decoration:none;">UML</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(80).pdf" style="text-decoration:none;">When Should I Use Parallel.ForEach? When Should I Use PLINQ?</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(81).rar" style="text-decoration:none;">Windows Internals (Part 1)</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(82).pdf" style="text-decoration:none;">Windows Internals (Part 2)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(83).pdf" style="text-decoration:none;">WinRT Revealed</a></b></li>
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(84).pdf" style="text-decoration:none;">XML Schema Essentials</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(85).pdf" style="text-decoration:none;">Creating your MySQL Database: Practical Design Tips and Techniques</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(86).pdf" style="text-decoration:none;">Graph Databases</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(87).pdf" style="text-decoration:none;">Learning Azure DocumentDB</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(88).pdf" style="text-decoration:none;">Learning Neo4j</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(89).pdf" style="text-decoration:none;">Learning PostgreSQL</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(90).pdf" style="text-decoration:none;">Mastering RethinkDB</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(91).pdf" style="text-decoration:none;">Microsoft SQL Azure: Enterprise Application Development</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(92).pdf" style="text-decoration:none;">Microsoft SQL Server 2012 Integration Services: An Expert Cookbook</a></b></li>
 
 
 
