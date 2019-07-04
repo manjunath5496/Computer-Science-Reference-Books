@@ -334,11 +334,28 @@ Cookbook</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(194).pdf" style="text-decoration:none;">The Algorithm Design Manual</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(23).pdf" style="text-decoration:none;">A Tour of C++</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(31).pdf" style="text-decoration:none;">The C++ Standard Library</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(45).pdf" style="text-decoration:none;">Modern C++ Design: Generic Programming and Design Patterns Applied</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(53).pdf" style="text-decoration:none;">Accelerated C++: Practical Programming by Example</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(55).pdf" style="text-decoration:none;">A Byte of Python</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(57).pdf" style="text-decoration:none;">C: How To Program</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(61).pdf" style="text-decoration:none;">Data Science from Scratch</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(78).pdf" style="text-decoration:none;">C++ Concurrency in Action</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(105).pdf" style="text-decoration:none;">Clean Code: A Handbook of Agile Software Craftsmanship</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(138).pdf" style="text-decoration:none;">Exceptional C++: 47 Engineering Puzzles,
+Programming Problems, and Solutions</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(182).pdf" style="text-decoration:none;">Programming Pearls</a></b></li>
 
 
 
