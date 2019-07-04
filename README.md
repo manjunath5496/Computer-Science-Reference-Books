@@ -255,6 +255,17 @@ Cookbook</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(151).pdf" style="text-decoration:none;">Microservices from Day One</a></b></li>
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(152).pdf" style="text-decoration:none;">Modern Linux Administration</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(153).pdf" style="text-decoration:none;">Nmap Essentials</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(154).pdf" style="text-decoration:none;">PowerShell in Depth</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(155).pdf" style="text-decoration:none;">PowerShell in Practice</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(156).pdf" style="text-decoration:none;">PowerShell Succinctly</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(157).pdf" style="text-decoration:none;">Practical DevOps</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(158).pdf" style="text-decoration:none;">Pro Bash Programming: Scripting the GNU/Linux Shell</a></b></li>
 
 
 
