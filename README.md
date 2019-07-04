@@ -142,6 +142,27 @@
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(93).pdf" style="text-decoration:none;">MongoDB Basics</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(94).pdf" style="text-decoration:none;">MySQL for Python</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(95).pdf" style="text-decoration:none;">Oracle Database 11gR2 Performance Tuning Cookbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(96).pdf" style="text-decoration:none;">PostgreSQL 9 Administration Cookbook</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(97).pdf" style="text-decoration:none;">PostgreSQL 9 High Availability Cookbook</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(98).pdf" style="text-decoration:none;">PostgreSQL Development Essentials</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(99).pdf" style="text-decoration:none;">PostgreSQL Server Programming</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(100).pdf" style="text-decoration:none;">SQL Server 2014 Development Essentials</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(101).pdf" style="text-decoration:none;">SQL Server 2016 Reporting
+Services Cookbook</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(102).pdf" style="text-decoration:none;">The Definitive Guide to. MongoDB</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(103).pdf" style="text-decoration:none;">Advanced Bash-Scripting Guide</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(104).pdf" style="text-decoration:none;">Automate it!: Recipes to upskill your business</a></b></li>
 
 
 
