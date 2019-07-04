@@ -310,9 +310,29 @@ Cookbook</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(180).pdf" style="text-decoration:none;">Data Structures and Algorithms in Python</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(181).pdf" style="text-decoration:none;">Data Structures and Algorithms with JavaScript</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(183).pdf" style="text-decoration:none;">Data Structures And Algorithms Made Easy</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(184).pdf" style="text-decoration:none;">Data Structures and Algorithms with Python</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(185).pdf" style="text-decoration:none;">Disk-Based Algorithms for Big Data</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(186).pdf" style="text-decoration:none;">Dynamic Programming: A Computational Tool</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(187).rar" style="text-decoration:none;">Grokking Algorithms: An illustrated guide for programmers and other curious people</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(188).pdf" style="text-decoration:none;">Introduction to Algorithms</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(189).pdf" style="text-decoration:none;">Learning F# Functional Data Structures and Algorithms</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(190).rar" style="text-decoration:none;">Learning JavaScript Data Structures and Algorithms</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(191).pdf" style="text-decoration:none;">Mathematics and Physics for Programmers</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(192).pdf" style="text-decoration:none;">Python Algorithms</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(193).pdf" style="text-decoration:none;">Sets, Logic and Maths for Computing</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(194).pdf" style="text-decoration:none;">The Algorithm Design Manual</a></b></li>
 
 
 
