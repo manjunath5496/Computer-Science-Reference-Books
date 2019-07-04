@@ -292,7 +292,23 @@ Cookbook</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(170).pdf" style="text-decoration:none;">Vagrant Virtual Development Environment Cookbook</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(171).pdf" style="text-decoration:none;">Windows PowerShell 3.0 First Steps</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(172).pdf" style="text-decoration:none;">Windows PowerShell Cookbook</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(173).pdf" style="text-decoration:none;">Windows PowerShell in Action</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(174).pdf" style="text-decoration:none;">Windows PowerShell: Pocket Reference</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(175).pdf" style="text-decoration:none;">Wireshark Essentials</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(176).pdf" style="text-decoration:none;">Wireshark Network Security</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(177).pdf" style="text-decoration:none;">Working with Linux – Quick Hacks for the Command Line</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(178).pdf" style="text-decoration:none;">Your UNIX/Linux: The Ultimate Guide</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(179).pdf" style="text-decoration:none;">Pro SQL Server Internals</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(180).pdf" style="text-decoration:none;">Data Structures and Algorithms in Python</a></b></li>
 
 
 
