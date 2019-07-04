@@ -165,9 +165,28 @@ Services Cookbook</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(104).pdf" style="text-decoration:none;">Automate it!: Recipes to upskill your business</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(106).pdf" style="text-decoration:none;">Beginning the
+Linux Command Line</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(107).pdf" style="text-decoration:none;">Building Microservices</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(108).pdf" style="text-decoration:none;">CentOS 6 Linux Server Cookbook</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(109).pdf" style="text-decoration:none;">Continuous Delivery and DevOps: A Quickstart Guide</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(110).pdf" style="text-decoration:none;">CoreOS Essentials</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(111).pdf" style="text-decoration:none;">Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT, and
+L7-filter</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(112).pdf" style="text-decoration:none;">Developing Microservices with Node.js</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(113).pdf" style="text-decoration:none;">DevOps Automation Cookbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(114).pdf" style="text-decoration:none;">DevOps Bootcamp: A fast-paced guide to implement DevOps with ease</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(115).pdf" style="text-decoration:none;">DevOps for Networking</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(116).pdf" style="text-decoration:none;">DevOps for Web Development</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(117).pdf" style="text-decoration:none;">DevOps on the Microsoft Stack</a></b></li>
 
 
 
