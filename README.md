@@ -85,5 +85,54 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(52).pdf" style="text-decoration:none;">SSH, The Secure Shell: The Definitive Guide</a></b></li>
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(54).pdf" style="text-decoration:none;">The Productive Programmer </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(56).pdf" style="text-decoration:none;">Understanding the Linux Kernel</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(58).pdf" style="text-decoration:none;">Operating System Concepts</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(59).pdf" style="text-decoration:none;">Patterns for Parallel Programming</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(60).pdf" style="text-decoration:none;">Pragmatic Guide to Git</a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(62).pdf" style="text-decoration:none;">Principles of Distributed Database Systems</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(63).pdf" style="text-decoration:none;">Pro .NET Performance: Optimize Your C# Applications</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(64).pdf" style="text-decoration:none;">Python: Create-Modify-Reuse </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(65).pdf" style="text-decoration:none;">Python Power! The Comprehensive Guide</a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(66).pdf" style="text-decoration:none;">Rx Design Guidelines</a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(67).pdf" style="text-decoration:none;">Software Engineering</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(68).pdf" style="text-decoration:none;">Succeeding with Agile</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(69).pdf" style="text-decoration:none;">Systems Analysis and Design in a Changing World</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(70).pdf" style="text-decoration:none;">Human–computer interaction </a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(71).pdf" style="text-decoration:none;">The Essential Guide to User Interface Design</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(72).pdf" style="text-decoration:none;">About Face 3: The Essentials of Interaction Design</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(73).pdf" style="text-decoration:none;">Designing with the Mind in Mind</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(74).pdf" style="text-decoration:none;">The Design of Everyday Things</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(75).pdf" style="text-decoration:none;">The Quick Python Book</a></b></li>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </ul>
