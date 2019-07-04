@@ -277,6 +277,31 @@ Cookbook</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(163).pdf" style="text-decoration:none;">The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline With Containerized Microservices</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(164).pdf" style="text-decoration:none;">The DevOps 2.1 Toolkit: Docker Swarm</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(165).pdf" style="text-decoration:none;">The DevOps Adoption Playbook</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(166).pdf" style="text-decoration:none;">The Linux Command Line: A Complete Introduction</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(167).pdf" style="text-decoration:none;">The Linux Programming Interface</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(168).pdf" style="text-decoration:none;">tmux Master</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(169).pdf" style="text-decoration:none;">X Power Tools</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(170).pdf" style="text-decoration:none;">Vagrant Virtual Development Environment Cookbook</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
