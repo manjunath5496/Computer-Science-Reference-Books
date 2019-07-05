@@ -593,8 +593,50 @@ Discovery for Big Data</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(304).pdf" style="text-decoration:none;">Code: The Hidden Language of Computer Hardware and Software</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(305).pdf" style="text-decoration:none;">Java Database Programming with JDBC</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(230).pdf" style="text-decoration:none;">Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(306).pdf" style="text-decoration:none;">RMAN Recipes for Oracle Database 12c</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(307).pdf" style="text-decoration:none;">Database Design: Know It All</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(308).pdf" style="text-decoration:none;">Database System Concepts </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(309).pdf" style="text-decoration:none;">Expert Oracle Database Architecture</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(310).pdf" style="text-decoration:none;">Data Structures and Algorithms for Big Databases</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(311).pdf" style="text-decoration:none;">Beginning Database-Driven Application Development in Java EE Using GlassFish</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(312).pdf" style="text-decoration:none;">Mastering PostgreSQL 10</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(313).pdf" style="text-decoration:none;">The Database Hacker's Handbook: Defending Database Servers</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(314).pdf" style="text-decoration:none;">Android Database Programming</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(315).pdf" style="text-decoration:none;">Practical MongoDB: Architecting, Developing, and Administering MongoDB</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(316).pdf" style="text-decoration:none;">Databases for Small Business</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(317).rar" style="text-decoration:none;">SQL For Dummies</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(318).pdf" style="text-decoration:none;">C++ database development</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(319).pdf" style="text-decoration:none;">Databases Theory and Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(320).rar" style="text-decoration:none;">Database Solutions: A step-by-step guide to building databases</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(321).pdf" style="text-decoration:none;">New Trends in Databases and Information Systems</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(322).pdf" style="text-decoration:none;">Databases Demystified </a></b></li>
 
 
 
