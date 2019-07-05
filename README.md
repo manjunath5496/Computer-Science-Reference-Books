@@ -638,12 +638,58 @@ Discovery for Big Data</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(322).pdf" style="text-decoration:none;">Databases Demystified </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(323).pdf" style="text-decoration:none;">Coders at Work: Reflections on the Craft of Programming</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(324).pdf" style="text-decoration:none;">Microsoft ASP.NET 4 Step by Step</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(325).pdf" style="text-decoration:none;">Coding for Beginners</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(326).pdf" style="text-decoration:none;">Elements of Programming Interviews in Java </a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(327).pdf" style="text-decoration:none;">Essential XML Quick Reference </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(328).pdf" style="text-decoration:none;">Hello Ruby: Adventures in Coding</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(329).pdf" style="text-decoration:none;">Test-Driven Development By Example</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(331).pdf" style="text-decoration:none;">Code Craft: The Practice of Writing Excellent Code</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(332).pdf" style="text-decoration:none;">Programming Arduino: Getting Started with Sketches </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(333).pdf" style="text-decoration:none;">Essential XML Quick Reference Structure and Interpretation of Computer Programs</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(334).pdf" style="text-decoration:none;">Soft Skills: The software developer's life manual</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(335).pdf" style="text-decoration:none;">Writing Solid Code</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(336).pdf" style="text-decoration:none;">XQuery 1.0: An XML QueryLanguage</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(337).pdf" style="text-decoration:none;">The Mythical Man-Month: Essays on Software Engineering </a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(338).pdf" style="text-decoration:none;">CONCEPTS OF PROGRAMMING LANGUAGES </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(339).pdf" style="text-decoration:none;">The Ruby Programming Language</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(340).pdf" style="text-decoration:none;">Foundations of Python Network Programming</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(341).pdf" style="text-decoration:none;">The Swift Programming Language</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(342).pdf" style="text-decoration:none;">R Programming for Bioinformatics</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(343).pdf" style="text-decoration:none;">Programming Language Pragmatics </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(344).pdf" style="text-decoration:none;">The Go Programming Language </a></b></li>
 
 
 
