@@ -700,8 +700,21 @@ Discovery for Big Data</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(346).pdf" style="text-decoration:none;">Java Program Design: Principles, Polymorphism, and Patterns</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(347).pdf" style="text-decoration:none;">Hacking Wireless Networks For Dummies</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(348).pdf" style="text-decoration:none;">Tools for teaching computer networking and hardware concepts</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(349).pdf" style="text-decoration:none;">Sams teach yourself networking in 24 hours</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(350).pdf" style="text-decoration:none;">TCP/IP Network Administration</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(351).pdf" style="text-decoration:none;">Networking Fundamentals</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(352).pdf" style="text-decoration:none;">Computer Network Security and Cyber Ethics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(353).pdf" style="text-decoration:none;">Red Hat Linux Networking and System Administration</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(354).pdf" style="text-decoration:none;">Routing and Switching Essentials: Companion Guide</a></b></li>
 
 
 
