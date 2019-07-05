@@ -507,8 +507,90 @@ Programming Problems, and Solutions</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(264).pdf" style="text-decoration:none;">Agile Data Science 2.0: Building Full-Stack Data Analytics Applications with Spark</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(265).pdf" style="text-decoration:none;">APPLIED DATA SCIENCE WITH PYTHON AND JUPYTER</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(266).pdf" style="text-decoration:none;">Dark Web: Exploring and Data Mining the Dark Side of the Web</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(267).pdf" style="text-decoration:none;">Data Mining and Knowledge
+Discovery for Big Data</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(268).pdf" style="text-decoration:none;">Data Mining and Knowledge Discovery Technologies</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(269).pdf" style="text-decoration:none;">Data Mining: Practical Machine Learning Tools and Techniques</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(270).pdf" style="text-decoration:none;">Data Mining: Concepts and Techniques</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(271).pdf" style="text-decoration:none;">Data Preprocessing in Data Mining</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(272).pdf" style="text-decoration:none;">Data Warehousing and Data Mining</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(273).pdf" style="text-decoration:none;">Data Mining Techniques</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(274).pdf" style="text-decoration:none;">Deep Learning Innovations and Their Convergence With Big Data</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(275).pdf" style="text-decoration:none;">Frontiers in Massive Data Analysis</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(276).pdf" style="text-decoration:none;">MAKING SENSE OF DATA I: A Practical Guide to Exploratory Data Analysis and Data Mining</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(277).pdf" style="text-decoration:none;">Mastering SQL Server 2014 Data Mining</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(278).pdf" style="text-decoration:none;">Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(279).pdf" style="text-decoration:none;">Post, Mine, Repeat: Social Media Data Mining Becomes Ordinary</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(280).pdf" style="text-decoration:none;">Quantum Machine Learning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(281).pdf" style="text-decoration:none;">Transparent Data Mining for Big and Small Data</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(282).pdf" style="text-decoration:none;">Understanding Complex Datasets: Data Mining with Matrix Decompositions</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(283).pdf" style="text-decoration:none;">Data Preparation for Data Mining Using SAS</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(284).pdf" style="text-decoration:none;">Adaptive Stream Mining: Pattern Learning and Mining from Evolving Data Streams</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(285).pdf" style="text-decoration:none;">Advanced Data Mining Techniques</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(286).pdf" style="text-decoration:none;">Advances in Data Mining: Applications in Medicine,Web Mining, Marketing, Image and Signal Mining</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(287).pdf" style="text-decoration:none;">Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(288).pdf" style="text-decoration:none;">DISCOVERING KNOWLEDGE IN DATA: An Introduction to Data Mining</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(289).pdf" style="text-decoration:none;">Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(290).pdf" style="text-decoration:none;">Introduction to R Data Mining</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(291).pdf" style="text-decoration:none;">Cracking Codes & Cryptograms For Dummies</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(292).pdf" style="text-decoration:none;">Kotlin for Android Developers</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(293).pdf" style="text-decoration:none;">Refactoring: Improving the Design of Existing Code</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(294).pdf" style="text-decoration:none;">MATLAB Codes for Finite Element Analysis</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(295).pdf" style="text-decoration:none;">PEARLS OF FUNCTIONAL ALGORITHM DESIGN</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(296).pdf" style="text-decoration:none;">Pro Android with Kotlin: Developing Modern Mobile Apps</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(297).pdf" style="text-decoration:none;">Professional Android Sensor Programming</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(298).pdf" style="text-decoration:none;">Programming Kotlin</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(299).pdf" style="text-decoration:none;">Teach Your Kids to Code</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(300).pdf" style="text-decoration:none;">Coding Projects in Python</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(301).pdf" style="text-decoration:none;">CRACKING THE CODING INTERVIEW</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(302).pdf" style="text-decoration:none;">Android Development with Kotlin</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(303).pdf" style="text-decoration:none;">C++ GEMS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(304).pdf" style="text-decoration:none;">Code: The Hidden Language of Computer Hardware and Software</a></b></li>
 
 
 
