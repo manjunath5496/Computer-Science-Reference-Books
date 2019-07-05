@@ -717,13 +717,18 @@ Discovery for Big Data</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(354).pdf" style="text-decoration:none;">Routing and Switching Essentials: Companion Guide</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(355).pdf" style="text-decoration:none;">More Effective C#: 50 Specific Ways to Improve Your C#</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(356).pdf" style="text-decoration:none;">The Soul of a New Machine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(357).pdf" style="text-decoration:none;">Agile Principles, Patterns, and Practices in C#</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(358).pdf" style="text-decoration:none;">Superintelligence: Paths, Dangers, Strategies</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(359).pdf" style="text-decoration:none;">Concrete Mathematics</a></b></li>
 
-
-
-
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(360).pdf" style="text-decoration:none;">PC Hardware: A Beginner's Guide</a></b></li>
 
 
 </ul>
