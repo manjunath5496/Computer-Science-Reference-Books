@@ -693,5 +693,24 @@ Discovery for Big Data</a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(330).pdf" style="text-decoration:none;">Computer Networks and Internets</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(345).pdf" style="text-decoration:none;">Data Communication and Computer Network Tutorial</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(346).pdf" style="text-decoration:none;">Java Program Design: Principles, Polymorphism, and Patterns</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </ul>
