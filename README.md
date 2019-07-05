@@ -421,6 +421,98 @@ Programming Problems, and Solutions</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(223).pdf" style="text-decoration:none;">Object-Oriented and Classical Software Engineering</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(224).pdf" style="text-decoration:none;">Machine Learning Models and Algorithms for Big Data Classification</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(225).pdf" style="text-decoration:none;">AI in Marketing, Sales and Service: How Marketers without a Data Science Degree can use AI, Big Data and Bots</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(226).pdf" style="text-decoration:none;">How to Think About Algorithms</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(227).pdf" style="text-decoration:none;">Algorithm Design and Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(228).pdf" style="text-decoration:none;">Algorithmic Probability and Combinatorics</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(229).pdf" style="text-decoration:none;">Algorithms For Dummies</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(231).pdf" style="text-decoration:none;">Applied Digital Signal Processing: THEORY AND PRACTICE</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(232).pdf" style="text-decoration:none;">Applied Natural Language Processing with Python</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(233).pdf" style="text-decoration:none;">Artificial Intelligence: A Modern Approach</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(234).pdf" style="text-decoration:none;">Big Data Demystified: How to Use Big Data, Data Science and AI to Make Better Business Decisions and Gain Competitive Advantage</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(235).pdf" style="text-decoration:none;">Clean Data</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(236).pdf" style="text-decoration:none;">Apache Spark 2.x Cookbook</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(237).pdf" style="text-decoration:none;">Combinatorial and Algorithmic Aspects of Networking</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(238).pdf" style="text-decoration:none;">Data Analytics with Hadoop: An Introduction for Data Scientists</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(239).pdf" style="text-decoration:none;">Data Mining Algorithms in C++</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(240).pdf" style="text-decoration:none;">Data Science for Business</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(241).pdf" style="text-decoration:none;">Data Structures & Problem Solving Using Java</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(242).pdf" style="text-decoration:none;">Data Structures and Algorithms in C++</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(243).pdf" style="text-decoration:none;">DISTRIBUTED ALGORITHMS ON GRAPHS</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(244).pdf" style="text-decoration:none;">Docker for Data Science</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(245).rar" style="text-decoration:none;">Doing Data Science</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(246).pdf" style="text-decoration:none;">Essential Algorithms: A Practical Approach to Computer Algorithms Using Python and C#</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(247).pdf" style="text-decoration:none;">Excel Data Analysis: Modeling and Simulation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(248).pdf" style="text-decoration:none;">Experimental Algorithmics: From Algorithm Design to Robust and Efficient Software</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(249).pdf" style="text-decoration:none;">Fast Fourier Transform: Algorithms and Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(250).pdf" style="text-decoration:none;">Introducing Data Science</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(251).pdf" style="text-decoration:none;">Introduction to Genetic Algorithms</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(252).pdf" style="text-decoration:none;">Algorithm Design</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(253).pdf" style="text-decoration:none;">Analysis of Algorithms: An Active Learning Approach</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(254).pdf" style="text-decoration:none;">Machine Learning For Dummies</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(255).pdf" style="text-decoration:none;">MACHINE LEARNING: An Algorithmic Perspective</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(256).pdf" style="text-decoration:none;">Mathematical Problems in Data Science</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(257).pdf" style="text-decoration:none;">Algorithms and Parallel Computing</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(258).pdf" style="text-decoration:none;">Practical Data Science Cookbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(259).pdf" style="text-decoration:none;">Practical Statistics for Data Scientists</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(260).pdf" style="text-decoration:none;">Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(261).pdf" style="text-decoration:none;">Scala for Data Science</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(262).pdf" style="text-decoration:none;">The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(263).pdf" style="text-decoration:none;">The Master Algorithm</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(264).pdf" style="text-decoration:none;">Agile Data Science 2.0: Building Full-Stack Data Analytics Applications with Spark</a></b></li>
+
+
+
+
+
+
+
+
 
 
 
