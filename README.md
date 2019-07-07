@@ -731,4 +731,78 @@ Discovery for Big Data</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(360).pdf" style="text-decoration:none;">PC Hardware: A Beginner's Guide</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(361).pdf" style="text-decoration:none;">Angular Material</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(362).pdf" style="text-decoration:none;">Schaum's Outline of Computer Graphics </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(363).pdf" style="text-decoration:none;">Digital Logic And Computer Design</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(364).pdf" style="text-decoration:none;">Discrete Mathematics for Computer Science</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(365).pdf" style="text-decoration:none;">React Quickly</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(366).pdf" style="text-decoration:none;">React JS by Example - Building Modern Web Applications with React</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(367).pdf" style="text-decoration:none;">React JS Notes for Professionals </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(368).pdf" style="text-decoration:none;">The Architecture of Computer Hardware, System Software, and Networking: An Information Technology Approach</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(369).pdf" style="text-decoration:none;">Spring Persistence with Hibernate</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(370).pdf" style="text-decoration:none;">Learn Microservices with Spring Boot</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(371).pdf" style="text-decoration:none;">Artificial Intelligence By Example</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(372).pdf" style="text-decoration:none;">Blockchain Enabled Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(373).pdf" style="text-decoration:none;">Blockchain: Blueprint for a New Economy</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(374).pdf" style="text-decoration:none;">MongoDB Tutorial: Simply Easy Learning</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(375).pdf" style="text-decoration:none;">50 Tips and Tricks for MongoDB Developers</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(376).pdf" style="text-decoration:none;">MongoDB in Action</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(377).pdf" style="text-decoration:none;">Scala for Java Developers</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(378).pdf" style="text-decoration:none;">Scala Cookbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(379).pdf" style="text-decoration:none;">Scala in Action</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(380).pdf" style="text-decoration:none;">Kubernetes in Action</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </ul>
