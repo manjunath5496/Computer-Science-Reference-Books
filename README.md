@@ -667,7 +667,7 @@ Discovery for Big Data</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(335).pdf" style="text-decoration:none;">Writing Solid Code</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(336).pdf" style="text-decoration:none;">XQuery 1.0: An XML QueryLanguage</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(336).pdf" style="text-decoration:none;">XQuery 1.0: An XML Query Language</a></b></li>
 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(337).pdf" style="text-decoration:none;">The Mythical Man-Month: Essays on Software Engineering </a></b></li>
@@ -824,169 +824,167 @@ Discovery for Big Data</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(402).pdf" style="text-decoration:none;">Docker Cookbook</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(403).pdf" style="text-decoration:none;">Docker for Developers</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(284).pdf" style="text-decoration:none;">Adaptive Stream Mining: Pattern Learning and Mining from Evolving Data Streams</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(404).pdf" style="text-decoration:none;">Docker for Sysadmins: Linux Windows
+VMware</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(285).pdf" style="text-decoration:none;">Advanced Data Mining Techniques</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(405).pdf" style="text-decoration:none;">Docker in Action</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(286).pdf" style="text-decoration:none;">Advances in Data Mining: Applications in Medicine,Web Mining, Marketing, Image and Signal Mining</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(406).pdf" style="text-decoration:none;">Docker in Practice</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(287).pdf" style="text-decoration:none;">Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(407).pdf" style="text-decoration:none;">Docker in Production: Lessons from the Trenches</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(288).pdf" style="text-decoration:none;">DISCOVERING KNOWLEDGE IN DATA: An Introduction to Data Mining</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(408).pdf" style="text-decoration:none;">Docker Management Design Patterns: Swarm Mode on Amazon Web Services</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(289).pdf" style="text-decoration:none;">Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(409).pdf" style="text-decoration:none;">Docker Tutorial</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(290).pdf" style="text-decoration:none;">Introduction to R Data Mining</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(410).pdf" style="text-decoration:none;">Docker Tutorial (Tutorialspoint)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(291).pdf" style="text-decoration:none;">Cracking Codes & Cryptograms For Dummies</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(411).pdf" style="text-decoration:none;">Essential Docker for ASP.NET Core MVC</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(292).pdf" style="text-decoration:none;">Kotlin for Android Developers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(412).pdf" style="text-decoration:none;">Kubernetes Patterns: Patterns, Principles, and Practices for Designing Cloud Native Applications</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(293).pdf" style="text-decoration:none;">Refactoring: Improving the Design of Existing Code</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(413).pdf" style="text-decoration:none;">Learning Windows Server Containers</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(294).pdf" style="text-decoration:none;">MATLAB Codes for Finite Element Analysis</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(414).pdf" style="text-decoration:none;">Orchestrating Docker: Manage and deploy Docker services to containerize applications efficiently</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(295).pdf" style="text-decoration:none;">PEARLS OF FUNCTIONAL ALGORITHM DESIGN</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(415).pdf" style="text-decoration:none;">Pro Docker</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(296).pdf" style="text-decoration:none;">Pro Android with Kotlin: Developing Modern Mobile Apps</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(416).pdf" style="text-decoration:none;">The Docker Book</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(297).pdf" style="text-decoration:none;">Professional Android Sensor Programming</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(417).pdf" style="text-decoration:none;">Using Docker</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(298).pdf" style="text-decoration:none;">Programming Kotlin</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(418).pdf" style="text-decoration:none;">Effective Python Penetration Testing</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(299).pdf" style="text-decoration:none;">Teach Your Kids to Code</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(419).pdf" style="text-decoration:none;">macOS Programming for Absolute Beginners</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(300).pdf" style="text-decoration:none;">Coding Projects in Python</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(420).pdf" style="text-decoration:none;">Practical Common Lisp</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(301).pdf" style="text-decoration:none;">CRACKING THE CODING INTERVIEW</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(421).pdf" style="text-decoration:none;">Practical Linux Infrastructure</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(302).pdf" style="text-decoration:none;">Android Development with Kotlin</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(422).pdf" style="text-decoration:none;">Sams teach yourself TCP/IP in 24 hours</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(303).pdf" style="text-decoration:none;">C++ GEMS</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(423).pdf" style="text-decoration:none;">Shell Programming in Unix, Linux and OS X</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(304).pdf" style="text-decoration:none;">Code: The Hidden Language of Computer Hardware and Software</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(424).pdf" style="text-decoration:none;">Sams Teach Yourself Unix in 24 Hours</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(305).pdf" style="text-decoration:none;">Java Database Programming with JDBC</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(425).pdf" style="text-decoration:none;">ANSI Common Lisp</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(230).pdf" style="text-decoration:none;">Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(426).pdf" style="text-decoration:none;">First Course in Algebra</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(306).pdf" style="text-decoration:none;">RMAN Recipes for Oracle Database 12c</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(427).pdf" style="text-decoration:none;">How to Learn Math for Data Science, The Self-Starter Way</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(307).pdf" style="text-decoration:none;">Database Design: Know It All</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(428).pdf" style="text-decoration:none;">Linear algebra in R</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(308).pdf" style="text-decoration:none;">Database System Concepts </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(429).pdf" style="text-decoration:none;">The Matrix Cookbook</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(430).pdf" style="text-decoration:none;">Multivariable Calculus with Applications to the Life Sciences</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(309).pdf" style="text-decoration:none;">Expert Oracle Database Architecture</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(431).pdf" style="text-decoration:none;">Service Virtualization: Implementation, Practices, and Trends for On-Demand Test Environments</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(310).pdf" style="text-decoration:none;">Data Structures and Algorithms for Big Databases</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(432).pdf" style="text-decoration:none;">Calculus Made Easy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(311).pdf" style="text-decoration:none;">Beginning Database-Driven Application Development in Java EE Using GlassFish</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(312).pdf" style="text-decoration:none;">Mastering PostgreSQL 10</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(433).pdf" style="text-decoration:none;">A Gentle Guide to Constraint Logic Programming</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(434).pdf" style="text-decoration:none;">A Course in Machine Learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(313).pdf" style="text-decoration:none;">The Database Hacker's Handbook: Defending Database Servers</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(314).pdf" style="text-decoration:none;">Android Database Programming</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(435).pdf" style="text-decoration:none;">Enabling Exploratory Data Science with Spark and R</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(436).pdf" style="text-decoration:none;">How Apache Spark fits into the Big Data landscape</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(315).pdf" style="text-decoration:none;">Practical MongoDB: Architecting, Developing, and Administering MongoDB</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(437).pdf" style="text-decoration:none;">Recent Advances in Face Recognition</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(316).pdf" style="text-decoration:none;">Databases for Small Business</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(438).pdf" style="text-decoration:none;">An Architecture for Fast and General Data Processing on Large Clusters</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(317).rar" style="text-decoration:none;">SQL For Dummies</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(318).pdf" style="text-decoration:none;">C++ database development</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(439).pdf" style="text-decoration:none;">Fast Data Processing with Spark</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(440).pdf" style="text-decoration:none;">Logic For Computer Science: Foundations of Automatic Theorem Proving</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(319).pdf" style="text-decoration:none;">Databases Theory and Applications</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(441).pdf" style="text-decoration:none;">Intro to Apache Spark</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(320).rar" style="text-decoration:none;">Database Solutions: A step-by-step guide to building databases</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(321).pdf" style="text-decoration:none;">New Trends in Databases and Information Systems</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(442).pdf" style="text-decoration:none;">OCP Java SE 6 Programmer Practice Exams </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(443).pdf" style="text-decoration:none;">SCJP Sun Certified Programmer for Java 6 Study Guide</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(322).pdf" style="text-decoration:none;">Databases Demystified </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(444).pdf" style="text-decoration:none;">Machine Learning, Neural and Statistical Classification</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(323).pdf" style="text-decoration:none;">Coders at Work: Reflections on the Craft of Programming</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(445).pdf" style="text-decoration:none;">The Node Beginner Book: A comprehensive Node.js tutorial</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(324).pdf" style="text-decoration:none;">Microsoft ASP.NET 4 Step by Step</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(325).pdf" style="text-decoration:none;">Coding for Beginners</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(446).pdf" style="text-decoration:none;">Mastering Apache Spark</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(326).pdf" style="text-decoration:none;">Elements of Programming Interviews in Java </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(447).pdf" style="text-decoration:none;">Getting Started with GEO, CouchDB, and Node.js </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(448).pdf" style="text-decoration:none;">Mastering Apache Spark: Gain expertise in processing and storing data by using advanced techniques with Apache Spark</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(327).pdf" style="text-decoration:none;">Essential XML Quick Reference </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(449).pdf" style="text-decoration:none;">The Quest for Artificial Intelligence: A History of Ideas and Achievements</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(328).pdf" style="text-decoration:none;">Hello Ruby: Adventures in Coding</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(450).pdf" style="text-decoration:none;">Simply Logical: Intelligent Reasoning by Example</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(329).pdf" style="text-decoration:none;">Test-Driven Development By Example</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(451).pdf" style="text-decoration:none;">RESTful Web API Design with Node.js </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(331).pdf" style="text-decoration:none;">Code Craft: The Practice of Writing Excellent Code</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(452).pdf" style="text-decoration:none;">Virtual Reality for Human Computer Interaction </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(332).pdf" style="text-decoration:none;">Programming Arduino: Getting Started with Sketches </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(453).pdf" style="text-decoration:none;">Advanced Analytics with Spark</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(454).pdf" style="text-decoration:none;">Big Data Analytics Using Splunk</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(333).pdf" style="text-decoration:none;">Essential XML Quick Reference Structure and Interpretation of Computer Programs</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(455).pdf" style="text-decoration:none;">Java Concurrency In Practice</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(334).pdf" style="text-decoration:none;">Soft Skills: The software developer's life manual</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(456).pdf" style="text-decoration:none;">Build a REST API with Spring 4</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(335).pdf" style="text-decoration:none;">Writing Solid Code</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(336).pdf" style="text-decoration:none;">XQuery 1.0: An XML QueryLanguage</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(457).pdf" style="text-decoration:none;">Coding Interview in Java </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(337).pdf" style="text-decoration:none;">The Mythical Man-Month: Essays on Software Engineering </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(458).pdf" style="text-decoration:none;">The Elements of Statistical Learning: Data Mining, Inference, and Prediction </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(338).pdf" style="text-decoration:none;">CONCEPTS OF PROGRAMMING LANGUAGES </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(459).pdf" style="text-decoration:none;">Statistics 401: An Introduction to Statistics for Engineers and Scientists</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(460).pdf" style="text-decoration:none;">Introduction to the Practice of Statistics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(339).pdf" style="text-decoration:none;">The Ruby Programming Language</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(461).pdf" style="text-decoration:none;">Street-Fighting Mathematics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(340).pdf" style="text-decoration:none;">Foundations of Python Network Programming</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(462).pdf" style="text-decoration:none;">Think Stats: Exploratory Data Analysis in Python</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(341).pdf" style="text-decoration:none;">The Swift Programming Language</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(342).pdf" style="text-decoration:none;">R Programming for Bioinformatics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(463).pdf" style="text-decoration:none;">Open Data Structures </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(343).pdf" style="text-decoration:none;">Programming Language Pragmatics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(464).pdf" style="text-decoration:none;">Information Science and Statistics</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(344).pdf" style="text-decoration:none;">The Go Programming Language </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(465).pdf" style="text-decoration:none;">C++ For Artists: The Art, Philosophy, and Science of Object-Oriented Programming</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(330).pdf" style="text-decoration:none;">Computer Networks and Internets</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(466).pdf" style="text-decoration:none;">Concurrency in .NET</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(345).pdf" style="text-decoration:none;">Data Communication and Computer Network Tutorial</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(346).pdf" style="text-decoration:none;">Java Program Design: Principles, Polymorphism, and Patterns</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(467).pdf" style="text-decoration:none;">Designing for Cisco Network Service Architectures (ARCH) Foundation Learning Guide</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(468).pdf" style="text-decoration:none;">Erlang and OTP in Action</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(347).pdf" style="text-decoration:none;">Hacking Wireless Networks For Dummies</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(469).pdf" style="text-decoration:none;">Machine Learning Systems</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(348).pdf" style="text-decoration:none;">Tools for teaching computer networking and hardware concepts</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(349).pdf" style="text-decoration:none;">Sams teach yourself networking in 24 hours</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(350).pdf" style="text-decoration:none;">TCP/IP Network Administration</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(470).pdf" style="text-decoration:none;">Mastering Jenkins</a></b></li>
 
 
 
