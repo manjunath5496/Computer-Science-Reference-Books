@@ -987,27 +987,78 @@ VMware</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(470).pdf" style="text-decoration:none;">Mastering Jenkins</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(471).pdf" style="text-decoration:none;">AWS Certified SysOps Administrator Official Study Guide - Associate Exam </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(472).pdf" style="text-decoration:none;">Amazon Web Services in Action</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(473).pdf" style="text-decoration:none;">Beginning CouchDB</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(474).pdf" style="text-decoration:none;">Beginning SVG: A Practical Introduction to SVG using Real-World Examples</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(475).pdf" style="text-decoration:none;">Elixir in Action </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(476).pdf" style="text-decoration:none;">Fonts & Encodings </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(477).pdf" style="text-decoration:none;">Practical Web Development with Haskell</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(478).pdf" style="text-decoration:none;">Scaling Your Node.js Apps</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(479).pdf" style="text-decoration:none;">Think Like a Data Scientist: TACKLE THE DATA SCIENCE PROCESS STEP-BY-STEP</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(480).pdf" style="text-decoration:none;">UX for Developers</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(481).pdf" style="text-decoration:none;">Decoupled Drupal in Practice </a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(482).pdf" style="text-decoration:none;">Vue.js: Up and Running </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(483).pdf" style="text-decoration:none;">Web Application Development with R Using Shiny</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(484).pdf" style="text-decoration:none;">Web Applications with Elm</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(485).pdf" style="text-decoration:none;">Getting to Know Vue.js</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(486).pdf" style="text-decoration:none;">Developing Games on the Raspberry Pi</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(487).pdf" style="text-decoration:none;">Dynamic SQL </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(488).pdf" style="text-decoration:none;">Large Scale Data Analytics</a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(489).pdf" style="text-decoration:none;">PCs Just the Steps For Dummies</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(490).pdf" style="text-decoration:none;">Python for Data Mining Quick Syntax Reference</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(491).pdf" style="text-decoration:none;">Solving Cyber Risk: Protecting your company and society</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(492).pdf" style="text-decoration:none;">Understanding Azure Data Factory</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(493).pdf" style="text-decoration:none;">Voice User Interface Design: Moving from GUI to Mixed Modal Interaction</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(494).pdf" style="text-decoration:none;">Nagios: System and Network Monitoring</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(495).pdf" style="text-decoration:none;">Algorithm & Flowchart Manual for students</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(496).pdf" style="text-decoration:none;">Cisco ISP Essentials</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(497).pdf" style="text-decoration:none;">Learn Active Directory Management in a Month of Lunches</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(498).pdf" style="text-decoration:none;">Managing Microsoft Hybrid Clouds</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(499).pdf" style="text-decoration:none;">Tableau Data Visualization Cookbook</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(500).pdf" style="text-decoration:none;">The Site Reliability Workbook</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(501).pdf" style="text-decoration:none;">Networking All-in-One For Dummies</a></b></li>
 
 
 
