@@ -1,3 +1,29 @@
+ <table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<th><a class="mw-selflink selflink">Computer science</a></th>
+</tr>
+<tr>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="History of computer science" href="https://en.wikipedia.org/wiki/History_of_computer_science">History</a></li>
+<li><a title="Outline of computer science" href="https://en.wikipedia.org/wiki/Outline_of_computer_science">Outline</a></li>
+<li><a title="Glossary of computer science" href="https://en.wikipedia.org/wiki/Glossary_of_computer_science">Glossary</a></li>
+<li><a title="Category:Computer science" href="https://en.wikipedia.org/wiki/Category:Computer_science">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+ 
+ </br>
+ 
+ <h2> Books </h2>
+ 
+ 
+ 
  <ul>
                                 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(1).pdf" style="text-decoration:none;">Computer organization and architecture : designing for performance </a></li>
                                 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(2).pdf" style="text-decoration:none;">Introduction to Algorithms</a></li>
