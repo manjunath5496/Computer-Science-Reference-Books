@@ -145,7 +145,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(80).pdf" style="text-decoration:none;">When Should I Use Parallel.ForEach? When Should I Use PLINQ?</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(81).rar" style="text-decoration:none;">Windows Internals (Part 1)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(81).pdf" style="text-decoration:none;">Windows Internals (Part 1)</a></li>
                                 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(82).pdf" style="text-decoration:none;">Windows Internals (Part 2)</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(83).pdf" style="text-decoration:none;">WinRT Revealed</a></li>
@@ -345,12 +345,12 @@ Cookbook</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(186).pdf" style="text-decoration:none;">Dynamic Programming: A Computational Tool</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(187).rar" style="text-decoration:none;">Grokking Algorithms: An illustrated guide for programmers and other curious people</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(187).pdf" style="text-decoration:none;">Grokking Algorithms: An illustrated guide for programmers and other curious people</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(188).pdf" style="text-decoration:none;">Introduction to Algorithms</a></li>
                                 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(189).pdf" style="text-decoration:none;">Learning F# Functional Data Structures and Algorithms</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(190).rar" style="text-decoration:none;">Learning JavaScript Data Structures and Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(190).pdf" style="text-decoration:none;">Learning JavaScript Data Structures and Algorithms</a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(191).pdf" style="text-decoration:none;">Mathematics and Physics for Programmers</a></li>
@@ -388,7 +388,7 @@ Programming Problems, and Solutions</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(196).pdf" style="text-decoration:none;">Deep Learning with Python</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(197).rar" style="text-decoration:none;">Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(197).pdf" style="text-decoration:none;">Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(198).pdf" style="text-decoration:none;">Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library</a></li>
                                 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(199).pdf" style="text-decoration:none;">C++: The Complete Reference</a></li>
@@ -486,7 +486,7 @@ Programming Problems, and Solutions</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(243).pdf" style="text-decoration:none;">DISTRIBUTED ALGORITHMS ON GRAPHS</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(244).pdf" style="text-decoration:none;">Docker for Data Science</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(245).rar" style="text-decoration:none;">Doing Data Science</a></li>
+                                <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(245).pdf" style="text-decoration:none;">Doing Data Science</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(246).pdf" style="text-decoration:none;">Essential Algorithms: A Practical Approach to Computer Algorithms Using Python and C#</a></li>
 
@@ -650,14 +650,14 @@ Discovery for Big Data</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(316).pdf" style="text-decoration:none;">Databases for Small Business</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(317).rar" style="text-decoration:none;">SQL For Dummies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(317).pdf" style="text-decoration:none;">SQL For Dummies</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(318).pdf" style="text-decoration:none;">C++ database development</a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(319).pdf" style="text-decoration:none;">Databases Theory and Applications</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(320).rar" style="text-decoration:none;">Database Solutions: A step-by-step guide to building databases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(320).pdf" style="text-decoration:none;">Database Solutions: A step-by-step guide to building databases</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Science-Reference-Books/blob/master/comp(321).pdf" style="text-decoration:none;">New Trends in Databases and Information Systems</a></li>
 
